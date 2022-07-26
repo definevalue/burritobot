@@ -5,7 +5,7 @@
   "dependencies": {
     "sandbox": "git+https://github.com/bcoe/sandbox.git#5f64b793a17",
     "highland": "^1.25.4",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.21",
     "moment": "^2.6.0"
   },
   "bin": {
